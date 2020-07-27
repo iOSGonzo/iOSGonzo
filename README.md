@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/kHJQE8Y.png" width="370px" align="center">
 <p/>
 
-#### 👋 Hey! I'm currently a Senior studying CS at [Makeschool](https://www.makeschool.com) in San Francisco, here is a little about me:
+#### 👋 Hey! I'm currently a Senior studying CS at [Makeschool](https://www.makeschool.com) in San Francisco🌉, here is a little about me:
 
 ### Technical Interests:
 - 🍎 iOS Development - I have 2+ years experience with building iOS Apps, my strongest language is Swift!
