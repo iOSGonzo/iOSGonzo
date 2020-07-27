@@ -1,3 +1,6 @@
+<p align="left">
+<img src="https://i.imgur.com/b6n4wxc.png" width="370px" align="center">
+<p/>
 
 #### 👋 Hey! I'm currently a Senior studying CS at [Makeschool](https://www.makeschool.com) in San Francisco🌉
 
