@@ -5,12 +5,12 @@
 
 #### 👋 Hey! I'm currently a Senior studying CS at [Makeschool](https://www.makeschool.com) in San Francisco🌉  ~ here's a little about me:
 
-### Technical Interests:
+### Skills:
 - 🍎 iOS Development - I have 2+ years experience with building iOS Apps, my strongest language is Swift!
 - 🎨  Graphic Design - I've designed graphics for 4+ years now, I currently use Figma and Sketch the most.
 - 📝  UX Design - I love nitpicking the small details that make popular apps enjoyable and apply them into my own projects!
 
-### Non-Technical Interests:
+### Interests:
 - 📊 Ecommerce - I've always been into starting online businesses, having started a few on my own in the past!
 - 🏃‍♂️ Running - Been running since the 7th grade, ran my first 1/2 Marathon at 15 and my first Full at 18
 - 🧘‍♀️ Meditation - Been meditating for about a year now, it's what keeps me sane everyday:)
