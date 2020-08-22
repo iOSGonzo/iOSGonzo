@@ -17,6 +17,12 @@
 - 🌲 Hiking - Even though I spend alot of time in front of a screen, I love discovering new places
 
 <details> 
+<summary><b><img src="https://cdn.discordapp.com/emojis/704024736950386728.gif" width="20px" align="center">Projects</b></summary>
+body
+</details>
+
+
+<details> 
 <summary><b><img src="https://cdn.discordapp.com/emojis/704024736950386728.gif" width="20px" align="center"> Fun Facts</b></summary>
 body
 </details>
