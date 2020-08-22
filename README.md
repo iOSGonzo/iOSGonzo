@@ -28,6 +28,7 @@
   <li>CoreData</li>
   <li>Firebase</li>
   <li>Animations</li>
+  <li>Cocoapods</li>
   <li>Widgets</li>
   <li>Networking</li>
   <li>Lifecycles</li>
