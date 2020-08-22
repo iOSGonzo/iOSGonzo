@@ -30,6 +30,7 @@
   <li>Animations</li>
   <li>Networking</li>
   <li>Lifecycles</li>
+  <li>Protocols/Delegates</li>
   <li>Auto Layout</li>
   <li>Gesture Recognizers</li>
 </ul></details> 
