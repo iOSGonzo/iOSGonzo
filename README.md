@@ -5,7 +5,6 @@
 
 #### 👋 Hey! I'm currently a Senior studying CS at [Makeschool](https://www.makeschool.com) in San Francisco🌉  ~ here's a little about me:
 
-
 <details> 
 <summary><img alt="swift-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png" width="20px"></img><b> Projects</b></summary>
   <br></br>
@@ -22,7 +21,19 @@
 
 
 ### Skills:
-- 🍎 iOS Development - I have 2+ years experience with building iOS Apps, my strongest language is Swift!
+- 🍎 iOS Development - I have 2+ years experience with building iOS Apps, my strongest language is Swift!<details> <summary><b>See Technologies</b></summary><ul>
+  <li>HIG</li>
+  <li>MVC</li>
+  <li>UIKit</li>
+  <li>CoreData</li>
+  <li>Firebase</li>
+  <li>Animations</li>
+  <li>Networking</li>
+  <li>Lifecycles</li>
+  <li>Auto Layout</li>
+  <li>Gesture Recognizers</li>
+</ul></details> 
+
 - 🎨  Graphic Design - I've designed graphics for 4+ years now, I currently use Figma and Sketch the most.
 - 📝  UX Design - I love nitpicking the small details that make popular apps enjoyable and apply them into my own projects!
 
