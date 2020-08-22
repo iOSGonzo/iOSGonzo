@@ -5,6 +5,22 @@
 
 #### 👋 Hey! I'm currently a Senior studying CS at [Makeschool](https://www.makeschool.com) in San Francisco🌉  ~ here's a little about me:
 
+
+<details> 
+<summary><b>🔥 Projects</b></summary>
+  <br></br>
+  <p>
+    <a href="https://github.com/iOSGonzo/MetrixV1">
+      <img border="0" alt="Dreamly" src="https://i.imgur.com/ZkXPyR5.png" width="360" height="330">
+    </a>
+        <a href="https://github.com/iOSGonzo/dreamly">
+      <img border="0" alt="W3Schools" src="https://i.imgur.com/6nQax7I.png" width="360" height="330">
+    </a>
+
+  </p>
+</details> 
+
+
 ### Skills:
 - 🍎 iOS Development - I have 2+ years experience with building iOS Apps, my strongest language is Swift!
 - 🎨  Graphic Design - I've designed graphics for 4+ years now, I currently use Figma and Sketch the most.
@@ -16,10 +32,6 @@
 - 🧘‍♀️ Meditation - Been meditating for about a year now, it's what keeps me sane everyday:)
 - 🌲 Hiking - Even though I spend alot of time in front of a screen, I love discovering new places
 
-<details> 
-<summary><img src="https://im5.ezgif.com/tmp/ezgif-5-ef657f23de81.gif" width="150px" align="center"> </summary>
-body
-</details>
 
 
 
