@@ -7,7 +7,7 @@
 
 
 <details> 
-<summary><b>🔥 Projects</b></summary>
+<summary><img alt="swift-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png" width="20px"></img><b> Projects</b></summary>
   <br></br>
   <p>
     <a href="https://github.com/iOSGonzo/MetrixV1">
