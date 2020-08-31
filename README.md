@@ -49,7 +49,8 @@
 - 🌲 Hiking - Even though I spend alot of time in front of a screen, I love discovering new places
 
 ### Stats:
-![iOSGonzo's github stats](https://github-readme-stats.vercel.app/api?username=iOSGonzo&hide=contribs,prs&theme=graywhite&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iOSGonzo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Connect with me!
