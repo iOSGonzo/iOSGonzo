@@ -5,6 +5,8 @@
 
 #### 👋 Hey! I'm currently a Senior studying CS at [Makeschool](https://www.makeschool.com) in San Francisco🌉  ~ here's a little about me:
 
+
+
 <details> 
 <summary><img alt="swift-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png" width="20px"></img><b> Projects</b></summary>
   <br></br>
@@ -47,6 +49,8 @@
 - 🌲 Hiking - Even though I spend alot of time in front of a screen, I love discovering new places
 
 
+### Stats:
+![iOSGonzo's github stats](https://github-readme-stats.vercel.app/api?username=iOSGonzo&hide=contribs,prs)
 
 
 ## Connect with me!
