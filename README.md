@@ -48,9 +48,8 @@
 - 🧘‍♀️ Meditation - Been meditating for about a year now, it's what keeps me sane everyday:)
 - 🌲 Hiking - Even though I spend alot of time in front of a screen, I love discovering new places
 
-
 ### Stats:
-![iOSGonzo's github stats](https://github-readme-stats.vercel.app/api?username=iOSGonzo&hide=contribs,prs)
+![iOSGonzo's github stats](https://github-readme-stats.vercel.app/api?username=iOSGonzo&hide=contribs,prs&theme=graywhite&show_icons=true)
 
 
 ## Connect with me!
