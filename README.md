@@ -34,8 +34,9 @@
   <li>Widgets</li>
   <li>Networking</li>
   <li>Lifecycles</li>
-  <li>Protocols/Delegates</li>
   <li>Auto Layout</li>
+  <li>Protocols/Delegates</li>
+  <li>iMessage Extensions</li>
   <li>Gesture Recognizers</li>
 </ul></details> 
 
