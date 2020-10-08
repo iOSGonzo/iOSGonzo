@@ -23,7 +23,7 @@
 
 
 ### Skills:
-- 🍎 iOS Development - I have 2+ years experience with building iOS Apps, my strongest language is Swift!<details> <summary><b>See Technologies</b></summary><ul>
+- 🍎 iOS Development - I have 3+ years experience with building iOS Apps, my strongest language is Swift!<details> <summary><b>See Technologies</b></summary><ul>
   <li>HIG</li>
   <li>MVC</li>
   <li>UIKit</li>
