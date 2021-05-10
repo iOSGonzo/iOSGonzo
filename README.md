@@ -3,7 +3,7 @@
 <p/>
 
 
-#### 👋 Hey! I'm a passionate iOS Developer based in in San Francisco/Seattle!  ~ here's a little about me:
+#### 👋 Hey! I'm a passionate iOS Developer based in in Seattle!  ~ here's a little about me:
 
 
 
